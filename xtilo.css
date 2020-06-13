@@ -1,0 +1,21 @@
+button{
+    margin-top: 50px;
+    margin-left: 50px;  
+    background: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer;
+    
+}
+body.corDeFundo{
+    background: rgb(255, 255, 255);
+    text-align: center;   
+}
+
+a.insta{
+    background-color: white;
+    text-align: left;
+}
+
+p.desenvolvedor{
+    text-align: center;
+}
